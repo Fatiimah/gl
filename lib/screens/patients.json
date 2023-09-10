@@ -1,0 +1,54 @@
+{
+    "users": [
+        {
+          "id": 1,
+          "email": "chalemchai.doc@gmail.com",
+          "password": "cha123"
+        },
+        {
+          "id": 2,
+          "email": "sukjai.doc@gmail.com",
+          "password": "suk123"
+        },
+        {
+          "id": 3,
+          "email": "somsak.doc@gmail.com",
+          "password": "som123"
+        },
+        {
+          "id": 4,
+          "email": "chujai.doc@gmail.com",
+          "password": "chu123"
+        }
+      ],
+    "patients": [
+        {
+            "id": 1,
+            "name": "นายสมชาย ใจดี",
+            "gender": "ชาย",
+            "symtoms": "ปวดท้อง อาเจียน",
+            "doctor": "นายเเพทย์เฉลิมชัย สุขสันต์"
+        },
+        {
+            "id": 2,
+            "name": "นางสาวเกวลิน วันดี",
+            "gender": "หญิง",
+            "symtoms": "เวียนศรีศะ มีไข้ ปวดหูชั้นใน",
+            "doctor": "เเพทย์หญิงสุขใจ รักงาน"
+        },
+        {
+            "id": 3,
+            "name": "นายมาโนช รวยมาก",
+            "gender": "ชาย",
+            "symtoms": "แน่นหน้าอก หายใจติดขัด",
+            "doctor": "นายเเพทย์สมศักดิ์ ใจภักดี"
+        },
+        {
+            "id": 4,
+            "name": "นางเขมิกา เจิมจันทร์",
+            "gender": "หญิง",
+            "symtoms": "ปวดตา ปวดหลัง ปวดเมื่อยตามตัว",
+            "doctor": "เเพทย์หญิงชูใจ สู่ขวัญ"
+        }
+    ]
+}
